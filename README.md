@@ -10,4 +10,4 @@ So definitely check it out.
 
 Here is the preview:
 
-![alt text](https://raw.githubusercontent.com/thegreatshivam/JavaFontChangerApp/master/fontChangerPreview.jpg)
+![alt text](https://i.ibb.co/phPvXtx/font-Changer-Preview.jpg)
